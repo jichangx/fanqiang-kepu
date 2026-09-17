@@ -1,6 +1,6 @@
 # 翻墙科普攻略:原理、线路、故障排查、避坑与 AI 工具(每日同步)
 
-![更新](https://img.shields.io/badge/更新-2026--09--16-00e676) ![收录](https://img.shields.io/badge/收录文章-16%20篇-00b0ff) [![来源](https://img.shields.io/badge/内容来源-机场中文网-fbbf24)](https://jichangcnweb.com/learn/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新](https://img.shields.io/badge/更新-2026--09--17-00e676) ![收录](https://img.shields.io/badge/收录文章-16%20篇-00b0ff) [![来源](https://img.shields.io/badge/内容来源-机场中文网-fbbf24)](https://jichangcnweb.com/learn/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 这里是 [机场中文网「翻墙科普」栏目](https://jichangcnweb.com/learn/) 的 GitHub 镜像:客户端怎么安装放在客户端教程,这里回答**装好之后的事**,为什么晚上会卡、怎么判断问题出在本地还是机场、DNS 泄漏是怎么回事,以及翻墙之后那些海外 AI 工具怎么注册和用好。文章列表每天从栏目页自动同步。
 
