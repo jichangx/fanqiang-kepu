@@ -75,7 +75,7 @@ const readme = `# 翻墙科普攻略:原理、线路、故障排查、避坑与 
 
 这里是 [机场中文网「翻墙科普」栏目](${LEARN}) 的 GitHub 镜像:客户端怎么安装放在客户端教程,这里回答**装好之后的事**,为什么晚上会卡、怎么判断问题出在本地还是机场、DNS 泄漏是怎么回事,以及翻墙之后那些海外 AI 工具怎么注册和用好。文章列表每天从栏目页自动同步。
 
-> 🔗 相关仓库:[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) · [每日免费节点](https://github.com/jichangx/free-nodes) · [跑路机场预警](https://github.com/jichangx/airport-status) · [机场科普与快讯](https://github.com/jichangx/jichang-kepu-kuaixun) · [三站精品聚合](https://github.com/jichangx)
+> 🔗 相关仓库:[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) · [每日免费节点](https://github.com/jichangx/free-nodes) · [跑路机场预警](https://github.com/jichangx/airport-status) · [机场科普与快讯](https://github.com/jichangx/jichang-kepu-kuaixun) · [机场查精品聚合](https://github.com/jichangx)
 
 ${sections}
 ## 📌 声明
